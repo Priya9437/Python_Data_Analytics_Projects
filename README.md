@@ -22,3 +22,26 @@ This project focuses on **Exploratory Data Analysis (EDA)** of retail sales data
 
 ---
 *Developed by Priya Singh | Data Analyst Intern Ready 🚀*
+
+
+---
+
+# 🍕 Zomato Sales & Consumer Behavior Analytics (Python End-to-End EDA)
+
+## 📌 Project Overview
+This project delivers a comprehensive **Exploratory Data Analysis (EDA)** on Zomato's food delivery dataset. By analyzing thousands of customer interactions, online orders, and dining preferences, this project uncovers critical business insights regarding consumer purchasing behavior to help optimize food delivery logistics.
+
+## 🛠️ Tech Stack & Business Tools Used
+* **Language:** Python 🐍
+* **Environment:** Visual Studio Code (VS Code) / Jupyter Notebook
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+
+## 🔍 Executive Insights & Business Metrics Solved
+1. **Order Preference Trajectory:** Analyzed the massive shift between online food ordering vs. offline dining habits across major cafes and restaurants.
+2. **Geographical Demand:** Pinpointed high-density areas driving peak delivery hours and order values.
+3. **Conclusion Driven Data:** Concluded critical business outcomes showing how specific dining sectors accept offline orders whereas cafes primarily thrive on digital checkouts.
+
+## 📂 Deliverables & Repository Structure
+* `Zomato Project.ipynb`: Complete Python source code covering data preprocessing.
+* `Zomato_Raw_Data.csv`: The official structured transactional dataset powering this analytics engine.
+* `Project_Business_Insights.pdf`: Executive-ready documentation outlining core corporate suggestions.
